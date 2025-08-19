@@ -4,7 +4,7 @@ import "./App.css";
 const SITE = {
   name: "The Cowboy Hat Crew",
   ip: "172.96.164.77",
-  queryPort: "2302", // BattleMetrics / query API port
+  queryPort: "2312", // BattleMetrics / query API port
   gamePort: "2302",  // The actual join port for players
   discord: "https://discord.gg/pBFhVFm2bd",
   mods: [
